@@ -17,6 +17,7 @@ setup(
     author='Oleiade',
     author_email='tcrevon@gmail.com',
     url='http://github.com/oleiade/durations',
+    description='A Python durations parsing library',
     keywords='',
 
     packages=[
